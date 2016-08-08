@@ -1,0 +1,3 @@
+git config --global cor.editor "'brackets' -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
